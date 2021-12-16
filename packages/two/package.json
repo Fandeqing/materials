@@ -1,5 +1,5 @@
 {
-  "name": "two",
+  "name": "@fdq/two",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Fandeqing <18341893243@163.com>",
@@ -19,5 +19,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:Fandeqing/materials.git"
-  }
+  },
+  "gitHead": "b80147ed3fc5ab1d8e11ecdc9bee7f3f2db886da"
 }
