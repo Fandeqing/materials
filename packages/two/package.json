@@ -1,0 +1,19 @@
+{
+  "name": "two",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Fandeqing <18341893243@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/two.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
