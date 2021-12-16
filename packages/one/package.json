@@ -16,5 +16,11 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "repository": {}
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Fandeqing/materials.git"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
